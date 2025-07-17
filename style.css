@@ -1,17 +1,72 @@
+html {
+    font-family: "Roboto";
+    width: 98%;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+}
+
 body {
-    background-color: #eae8e8;
+    background-color: rgb(227, 227, 227);
+    margin: 1rem 0.2rem 1rem 0.2rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
 h1 {
-    text-align: center;
+    font-size: 2rem;
 }
 
 p {
-    text-align: center;
+    font-size: 0.8rem;
+}
+
+.photo {
+    background-color: rgb(255, 255, 255);
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.tonton {
+    width: 65%;
+    padding: 1rem 1rem 1rem 1rem;
+}
+
+figcaption {
+    font-size: 0.8rem;
+}
+
+
+
+h3 {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    font-size: 1rem;
 }
 
 .papa {
-    margin-left: 300px;
-    margin-right: 300px;
-    margin-bottom: 20px;
+    margin-left: 26rem;
+    margin-right: 26rem;
+    text-align: left;
+    line-height: 1.2rem;
+    font-size: 0.8rem;
+}
+
+ul li {
+    margin-bottom: 1.2rem;
+}
+
+.maman {
+    padding-top: 1rem;
+    font-size: 0.8rem;
+    text-align: left;
+    margin-left: 24rem;
+    margin-right: 24rem;
+}
+
+.gracias {
+    padding-top: 1rem;
 }
