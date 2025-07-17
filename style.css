@@ -1,3 +1,17 @@
+body {
+    background-color: #eae8e8;
+}
 
+h1 {
+    text-align: center;
+}
 
+p {
+    text-align: center;
+}
 
+.papa {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 20px;
+}
